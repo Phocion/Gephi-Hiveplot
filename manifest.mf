@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: edu.drexel.ischool.gephi
+OpenIDE-Module-Localizing-Bundle: edu/drexel/ischool/gephi/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
