@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="edu.drexel.ischool.gephi">
-    <module_version install_time="1331063631496" last="true" origin="installer" specification_version="1.0">
-        <file crc="1764412560" name="config/Modules/edu-drexel-ischool-gephi.xml"/>
-        <file crc="3958292419" name="modules/edu-drexel-ischool-gephi.jar"/>
-    </module_version>
-</module>
